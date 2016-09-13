@@ -1,2 +1,3 @@
 # hello-world
-This is a tutorial, the intention is to learn the basic of GitHub
+
+Hey handsome, you're doing a great job learning GitHub. And I love your shoes.
